@@ -1,0 +1,12 @@
+C:\Users\maty_\source\repos\BancoRestFull\Application\bin\Debug\net6.0\Application.deps.json
+C:\Users\maty_\source\repos\BancoRestFull\Application\bin\Debug\net6.0\Application.dll
+C:\Users\maty_\source\repos\BancoRestFull\Application\bin\Debug\net6.0\ref\Application.dll
+C:\Users\maty_\source\repos\BancoRestFull\Application\bin\Debug\net6.0\Application.pdb
+C:\Users\maty_\source\repos\BancoRestFull\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Users\maty_\source\repos\BancoRestFull\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maty_\source\repos\BancoRestFull\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Users\maty_\source\repos\BancoRestFull\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Users\maty_\source\repos\BancoRestFull\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\maty_\source\repos\BancoRestFull\Application\obj\Debug\net6.0\Application.dll
+C:\Users\maty_\source\repos\BancoRestFull\Application\obj\Debug\net6.0\ref\Application.dll
+C:\Users\maty_\source\repos\BancoRestFull\Application\obj\Debug\net6.0\Application.pdb
