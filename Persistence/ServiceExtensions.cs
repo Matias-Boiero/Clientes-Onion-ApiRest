@@ -9,6 +9,7 @@ namespace Persistence
 {
     public static class ServiceExtensions
     {
+        //Clase de servicios para inyeccion de dependencia
         public static void AddPersistenceInfrastructure(this IServiceCollection services, IConfiguration configuration)
         {
             services.AddDbContext<ApplicationDbContext>(options =>
@@ -16,7 +17,7 @@ namespace Persistence
                 b => b.MigrationsAssembly(typeof(ApplicationDbContext).Assembly.FullName)));
 
             #region repositories
-            services.AddTransient(typeof(IRepositoryAsync<>), typeof(MyRepositoryAsync<>));
+            services.AddScoped(typeof(IRepositoryAsync<>), typeof(MyRepositoryAsync<>));
             #endregion
         }
     }

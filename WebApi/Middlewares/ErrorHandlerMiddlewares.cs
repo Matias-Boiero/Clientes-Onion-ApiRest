@@ -4,11 +4,11 @@ using System.Text.Json;
 
 namespace WebApi.Middlewares
 {
-    public class ErrorHandlingMiddlewares
+    public class ErrorHandlerMiddleware
     {
         private readonly RequestDelegate _next;
 
-        public ErrorHandlingMiddlewares(RequestDelegate next)
+        public ErrorHandlerMiddleware(RequestDelegate next)
         {
             _next = next;
         }
@@ -36,14 +36,10 @@ namespace WebApi.Middlewares
                         response.StatusCode = (int)HttpStatusCode.BadRequest;
                         responseModel.Errors = e.Errors;
                         break;
-
-                    //Para arrojar error 404 cuando no se encuentre el id del recurso
                     case KeyNotFoundException e:
                         //not found error
                         response.StatusCode = (int)HttpStatusCode.NotFound;
                         break;
-
-                    //Cuando no tengamos contempada alguna excepcion lanzamos una excepcion por default
                     default:
                         // unhandled error
                         response.StatusCode = (int)HttpStatusCode.InternalServerError;

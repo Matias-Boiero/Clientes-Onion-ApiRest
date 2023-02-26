@@ -78,3 +78,4 @@ C:\Users\maty_\source\repos\BancoRestFull\WebApi\bin\Debug\net6.0\Persistence.pd
 C:\Users\maty_\source\repos\BancoRestFull\WebApi\bin\Debug\net6.0\Domain.pdb
 C:\Users\maty_\source\repos\BancoRestFull\WebApi\bin\Debug\net6.0\Shared.dll
 C:\Users\maty_\source\repos\BancoRestFull\WebApi\bin\Debug\net6.0\Shared.pdb
+C:\Users\maty_\source\repos\BancoRestFull\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll

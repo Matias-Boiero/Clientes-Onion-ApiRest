@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "pZjb739mOyjN4ZkytRY9dhUcTVABuWwcqywGpQSZ6J2YzZjIYoxDPAPJ2yhRSR3uoDYeuBt5UitcszOM03nGAw==",
+  "dgSpecHash": "ST9Jaa71JB51EsMmiA4W1/BLHMJrCroT+L46p/7Xlz6+KcnyxPRX6tYzUfkVDYrOYzcQcRJIUdenIv83KGxxrg==",
   "success": true,
   "projectFilePath": "C:\\Users\\maty_\\source\\repos\\BancoRestFull\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
@@ -14,6 +14,7 @@
     "C:\\Users\\maty_\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
     "C:\\Users\\maty_\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\maty_\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "C:\\Users\\maty_\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.0.0\\microsoft.aspnetcore.mvc.versioning.5.0.0.nupkg.sha512",
     "C:\\Users\\maty_\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\maty_\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\maty_\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",

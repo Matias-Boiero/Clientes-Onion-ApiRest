@@ -6,9 +6,9 @@ namespace WebApi.Extensions
     //de excepciones
     public static class AppExtensions
     {
-        public static void UseErrorHandlingMiddleware(this IApplicationBuilder app)
+        public static void UseErrorHandlerMiddleware(this IApplicationBuilder app)
         {
-            app.UseMiddleware<ErrorHandlingMiddlewares>();
+            app.UseMiddleware<ErrorHandlerMiddleware>();
         }
     }
 }

@@ -16,7 +16,7 @@ namespace Persistence.Context
             _dateTime = dateTime;
         }
 
-        public DbSet<Cliente> Cliente { get; set; }
+        public DbSet<Cliente> Clientes { get; set; }
 
 
         //Metodo para el grabado y seguimiento de fechas de creación de los recursos de la Api

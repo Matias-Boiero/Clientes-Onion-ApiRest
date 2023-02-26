@@ -13,3 +13,5 @@ C:\Users\maty_\source\repos\BancoRestFull\Shared\obj\Debug\net6.0\Shared.pdb
 C:\Users\maty_\source\repos\BancoRestFull\Shared\bin\Debug\net6.0\Application.dll
 C:\Users\maty_\source\repos\BancoRestFull\Shared\bin\Debug\net6.0\Application.pdb
 C:\Users\maty_\source\repos\BancoRestFull\Shared\obj\Debug\net6.0\Shared.csproj.CopyComplete
+C:\Users\maty_\source\repos\BancoRestFull\Shared\bin\Debug\net6.0\Domain.dll
+C:\Users\maty_\source\repos\BancoRestFull\Shared\bin\Debug\net6.0\Domain.pdb
