@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ZD0IC7uOa6pWPLmYlW3Nujfapdw1/oS0jQpHcEdZZKbNyPLfwGLYUX8bqsDcD1mTTOgRNdw4O5o/eFrmAF9Ocg==",
+  "dgSpecHash": "BzAwtMe0oEVXuiIzPv1OjZCsk8uSyFNHXY8LUR+sFOLo4sd8hnu8zDbNRPS3kOaDA30Foaf8ge6Wavh7mBJWfg==",
   "success": true,
   "projectFilePath": "C:\\Users\\maty_\\source\\repos\\BancoRestFull\\Shared\\Shared.csproj",
   "expectedPackageFiles": [
@@ -19,6 +19,7 @@
     "C:\\Users\\maty_\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
     "C:\\Users\\maty_\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\6.0.0\\microsoft.extensions.options.configurationextensions.6.0.0.nupkg.sha512",
     "C:\\Users\\maty_\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\maty_\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
     "C:\\Users\\maty_\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []

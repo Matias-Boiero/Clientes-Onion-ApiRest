@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "uf62hyjw+CEETO8ENLgwhgqnq47aSjkdy0izlFe8pT7Z3OF9mjnj+j3Wo/qKUGOxqGNByw/cc5O3UbPxnmfQcw==",
+  "dgSpecHash": "HNzdvizGRergQTpiJOfnKC8x0fyluChSvoNWVAHOr2CNCXoicXqUKVohD+SqTmXvEvP3RYtgH4oyB0PzNHoisw==",
   "success": true,
   "projectFilePath": "C:\\Users\\maty_\\source\\repos\\BancoRestFull\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
@@ -41,6 +41,7 @@
     "C:\\Users\\maty_\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\maty_\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\maty_\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\maty_\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
     "C:\\Users\\maty_\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
     "C:\\Users\\maty_\\.nuget\\packages\\system.configuration.configurationmanager\\4.7.0\\system.configuration.configurationmanager.4.7.0.nupkg.sha512",
     "C:\\Users\\maty_\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
